@@ -15,7 +15,7 @@ Hi, I'm Oğulcan Karayel. A passionate Developer 🚀 from Turkey.
 <br/>
 
 - 📫 How to reach me: [@05karayel05](https://twitter.com/05karayel05);
-- 📝[Resume](https://drive.google.com/file/d/1Feqfc6ZTMUQJn_CYXmCCzUiHG8QW1vzG/view)
+- 📝[Resume](https://drive.google.com/file/d/1FA31ULYCHaszmTZYpyZMHrlYaSR16l_5/view?usp=sharing)
 
 <br/>
 
