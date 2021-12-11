@@ -28,6 +28,4 @@ Hi, I'm Oğulcan Karayel. A passionate Developer 🚀 from Turkey.
 
 <br/>
 
-📈 My GitHub Stats
 
-![Ogulcan's github stats](https://github-readme-stats.vercel.app/api?username=ogulcankarayel5&count_private=true&theme=gotham)
