@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/ogulcan-karayell/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.reddit.com/user/ogulcan1903">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
 <br />
 <br/>
 Hi, I'm Oğulcan Karayel. A passionate Developer 🚀 from Turkey.
